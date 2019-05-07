@@ -62,4 +62,6 @@
 // SAL
 #include <sal.h>
 
+#include <functional>
+
 #pragma warning(pop)
